@@ -24,4 +24,9 @@ export default {
   },
 };
 </script>
-<style></style>
+<style scoped>
+.card input[type="checkbox"] {
+  display: inline !important;
+  margin-left: 20px;
+}
+</style>

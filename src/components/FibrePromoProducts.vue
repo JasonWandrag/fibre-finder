@@ -34,11 +34,4 @@ export default {
 .wrapper {
   justify-content: center;
 }
-.card {
-  /* max-width: 200px; */
-  /* height: 100%; */
-}
-.card img {
-  max-width: 100px;
-}
 </style>

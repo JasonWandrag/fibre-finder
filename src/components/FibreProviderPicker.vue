@@ -56,6 +56,8 @@ export default {
 }
 .card img {
   width: 100%;
+  max-height: 50px;
+  height: 50px;
   object-fit: contain;
 }
 
